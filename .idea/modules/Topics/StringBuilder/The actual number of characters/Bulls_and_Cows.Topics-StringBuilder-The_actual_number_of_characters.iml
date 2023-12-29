@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-StringBuilder-The_actual_number_of_characters" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/StringBuilder/The actual number of characters" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Bulls and Cows" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/StringBuilder/The actual number of characters">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/StringBuilder/The actual number of characters/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/StringBuilder/The actual number of characters/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/StringBuilder/The actual number of characters/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a4f1811b-9d6b-4181-ac58-50a9a79f21b6" />
+  </component>
+</module>

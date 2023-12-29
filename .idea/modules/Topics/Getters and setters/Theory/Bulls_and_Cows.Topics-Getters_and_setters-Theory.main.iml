@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Getters_and_setters-Theory:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Getters and setters/Theory" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Bulls and Cows" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Getters and setters/Theory/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Getters and setters/Theory/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Getters and setters/Theory/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="b4272b9f-7f59-48e3-ab08-30c9f5e780d7" />
+  </component>
+</module>

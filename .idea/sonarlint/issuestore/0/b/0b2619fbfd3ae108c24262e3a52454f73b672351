@@ -1,0 +1,25 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Ù†â8Ò °Ë1
+G	java:S106"+Replace this use of System.out by a logger.(Ø®ûÅ8Õ °Ë1
+G	java:S106"+Replace this use of System.out by a logger.(½¿²ù8Ö °Ë1
+F	java:S106%"+Replace this use of System.out by a logger.(¤Ğ¼Y8Ú °Ë1
+L	java:S106-"+Replace this use of System.out by a logger.(Êüù›ùÿÿÿÿ8Ü °Ë1
+G	java:S1063"+Replace this use of System.out by a logger.(ø›±Û8İ °Ë1
+L	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ß °Ë1
+L	java:S106="+Replace this use of System.out by a logger.(ë¤–…ıÿÿÿÿ8ô °Ë1
+L	java:S106A"+Replace this use of System.out by a logger.(áÖñèûÿÿÿÿ8ö °Ë1
+:
+java:S2119^"Save and re-use this "Random".(¼İÅf8ë °Ë1
+u
+java:S3012o"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(îé¯8ğ °Ë1
+F	java:S106v"+Replace this use of System.out by a logger.(‡ƒé8Óé°°Ë1
+Y
+java:S6353{"<Use concise character class syntax '\\d' instead of '[0-9]'.(ˆÏ’ë8ÃÂ¦±Ë1
+F	java:S106|"+Replace this use of System.out by a logger.(Úöß8Ÿ °Ë1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(ÆÀûı8™±Ë1
+S
+java:S1751†"5Remove this "break" statement or make it conditional.(›ûä·8™±Ë1
+^	java:S125‡"<This block of commented-out lines of code should be removed.(¯„®Êûÿÿÿÿ8™±Ë1
+H	java:S106Æ"+Replace this use of System.out by a logger.(åıùŠ8¥™±Ë1
+L
+java:S1144©".Remove this unused private "printCode" method.(Ê¦ã8º™±Ë1

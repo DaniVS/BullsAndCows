@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Getters_and_setters-Fixing_the_encapsulated_Book_class_code:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Getters and setters/Fixing the encapsulated Book class code" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Bulls and Cows" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Getters and setters/Fixing the encapsulated Book class code/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Getters and setters/Fixing the encapsulated Book class code/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Getters and setters/Fixing the encapsulated Book class code/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="6e46beb9-5cb9-4164-b416-9e1982832d6e" />
+  </component>
+</module>

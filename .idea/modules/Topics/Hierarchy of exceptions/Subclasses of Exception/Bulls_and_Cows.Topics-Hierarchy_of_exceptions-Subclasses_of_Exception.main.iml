@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Hierarchy_of_exceptions-Subclasses_of_Exception:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Hierarchy of exceptions/Subclasses of Exception" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Bulls and Cows" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Hierarchy of exceptions/Subclasses of Exception/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Hierarchy of exceptions/Subclasses of Exception/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Hierarchy of exceptions/Subclasses of Exception/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="57138d71-53ed-4e68-830e-a1496956aac2" />
+  </component>
+</module>
